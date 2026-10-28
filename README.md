@@ -111,18 +111,6 @@ USE sales_analysis_db;
 
 Open `Amazon_Sales_Analysis_Dashboard.pbix` using Power BI Desktop. If its data source points to a different local path, update the data-source settings and refresh. The dashboard includes executive KPIs, category and product analysis, geographic analysis, order fulfillment and interactive slicers.
 
-## Screenshots
-
-The `Project_Screenshots/` directory contains evidence of the data-inspection, cleaning, Python analysis, SQL analysis and Power BI dashboard stages. Examples:
-
-![Dataset preview](Project_Screenshots/P01_01_Dataset_Preview.PNG)
-
-![Monthly sales trend](Project_Screenshots/P04_08_Monthly_Sales_Trend.PNG)
-
-![Power BI executive overview](Project_Screenshots/PBI_08_Executive_Overview_KPIs.PNG)
-
-![Power BI category analysis](Project_Screenshots/PBI_11_Product_Category_Analysis.PNG)
-
 ## Limitations and future scope
 
 - Results describe the supplied transaction dataset, not independently verified Amazon business performance.
